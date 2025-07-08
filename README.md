@@ -21,4 +21,4 @@
 - **Backend**: Python
 - **GenAI Model**: OpenRouter (DeepSeek)
 - **PDF Parsing**: `pdfplumber`
-- **Environment**: `.env` (for local dev) or `st.secrets` (for Streamlit Cloud)
+- **Environment**: `.env` (for local dev) and `st.secrets` (for Streamlit Cloud)
