@@ -19,6 +19,6 @@
 
 - **Frontend**: Streamlit
 - **Backend**: Python
-- **GenAI Model**: OpenRouter (DeepSeek/Qwen or any OpenAI-compatible model)
+- **GenAI Model**: OpenRouter (DeepSeek)
 - **PDF Parsing**: `pdfplumber`
 - **Environment**: `.env` (for local dev) or `st.secrets` (for Streamlit Cloud)
